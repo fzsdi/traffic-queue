@@ -1,0 +1,36 @@
+[RESOURCES]
+OthersOp
+PrepOp
+HelperPhotographer1
+HelperPhotographer2
+HelperPhotographer3
+HelperPhotographer4
+PhotographerSt1
+PhotographerSt2
+Op1
+Op2
+Op3
+3x4Op
+[VARIABLES]
+Other type of photos customers entry.NumberOut
+Which studio room?.NumberOut False
+Reception for others.NumberIn
+Cash desk.NumberOut
+Photographic studio 2.NumberIn
+Paid?.NumberOut True
+Photographic studio 1.NumberOut
+PrepCost
+Finish.NumberOut
+Reception for 3x4.NumberIn
+Photographic studio 1.NumberIn
+Cash desk.NumberIn
+OperationalCost
+Reception for 3x4.NumberOut
+Which studio room?.NumberOut True
+Paid?.NumberOut False
+Reception for others.NumberOut
+Preparation.NumberOut
+3x4 photos customers entry.NumberOut
+Photographic studio 2.NumberOut
+Exit.NumberOut
+Preparation.NumberIn
